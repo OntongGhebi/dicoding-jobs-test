@@ -6,9 +6,9 @@ Welcome to the **Dicoding Jobs Platform** repository! This project is a full-sta
 
 This repository is structured as a monorepo containing both backend and frontend applications:
 
-* **Backend:** Laravel 11 (PHP 8.2+) — RESTful API with validation, controller logic, and automated tests.
+* **Backend:** Laravel 11 (PHP 8.5+) — RESTful API with validation, controller logic, and automated tests.
 
-* **Frontend:** Next.js 15 (App Router), React 19, TypeScript, and Tailwind CSS.
+* **Frontend:** Next.js 16 (App Router), React 19, TypeScript, and Tailwind CSS.
 
 * **Database:** PostgreSQL (Neon Serverless PostgreSQL).
 
